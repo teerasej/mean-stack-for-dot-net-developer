@@ -6,13 +6,13 @@
 รันคำสั่งด้านล่างในโปรเจค 
 
 ```bash
-npm install --save-dev babel-cli @babel/core babel-preset-env babel-watch
+npm install --save-dev babel-cli @babel/core @babel/preset-env babel-watch
 ```
 
 หรือ 
 
 ```bash
-yarn add --dev babel-cli @babel/core babel-preset-env babel-watch
+yarn add --dev babel-cli @babel/core @babel/preset-env babel-watch
 ```
 
 ## 2. สร้างไฟล์ config สำหรับ babel 
@@ -21,7 +21,7 @@ yarn add --dev babel-cli @babel/core babel-preset-env babel-watch
 
 ```json
 {
-  "presets": ["env"]
+  "presets": ["@babel/preset-env"]
 }
 ```
 
