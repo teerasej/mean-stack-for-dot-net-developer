@@ -1,6 +1,0 @@
-
-# Routing Module
-
-
-## RESTful Route
-
