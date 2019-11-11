@@ -31,20 +31,23 @@
 20. [Drop collection ในการ test](mongodb/test-drop-collection.md)
 21. [ทดสอบ test การสร้าง user ใหม่](mongodb/insert-new-user.md)
 22. [Validate Request ด้วย Joi](mongodb/joi-validate-request.md)
+23. [Implement Route: แสดงรายชื่อของ User ทั้งหมด](mongodb/get-all-user.md)
+24. [Implement Route: find by Id, update, delete user, find by username](mongodb/implement-find-by-id-update-delete.md)
+25. [Test: Find by username, delete user](mongodb/test-find-by-id-delete-user.md)
 
     ## Angular
 
-23. Setup 
-24. Using Component
-25. Using Directive 
-26. Navigation
-27. Service
-28. HttpClient
-29. Async/Await
+26. Setup 
+27. Using Component
+28. Using Directive 
+29. Navigation
+30. Service
+31. HttpClient
+32. Async/Await
 
     ## Azure DevOps
 
-30. Setup package.json
-31. 
+33. Setup package.json
+34. 
 
 
