@@ -56,20 +56,3 @@
 28. [JWT: เช็คข้อมูล user ใน database ก่อนปล่อย request เข้า route](mongodb/check-user-exist-in-jwt.md)
 29. [Test: ทดสอบการ login แบบต่างๆ](mongodb/test-user-login-route.md)
 
-    ## Angular
-
-30. [Setup](/angular/setup.md) 
-31. [Create Component](angular/create-component.md)
-32. [Navigation & Routing](angular/navigation-routing.md)
-33. [Using Directive with Routing](/angular/directive-with-routing.md)
-34. 
-35. Service
-36. HttpClient
-37. Async/Await
-
-    ## Azure DevOps
-
-38. Setup package.json
-39. 
-
-
