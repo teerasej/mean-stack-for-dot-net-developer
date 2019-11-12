@@ -20,35 +20,4 @@
 12. [Separate Server Setup](express/server-module.md)
 13. [Authenticate with JWT & Test](express/json-web-token-use-in-route.md)
 
-    ## MongoDB
-
-14. [การใช้งาน MongoDB ใน Docker](mongodb/mongo-docker.md)
-15. [ติดตั้ง Mongoose](mongodb/mongoose-setup.md)
-16. [แนวคิดใน Mongoose](mongodb/mongoose-concept.md)
-17. [เชื่อมต่อกับ MongoDB และทดสอบใช้งาน](mongodb/mongoose-test-run.md)
-18. [สร้าง Schema Model](mongodb/mongoose-define-schema.md)
-19. [ใช้ user schema ในการสร้าง user ใหม่ลง Database](mongodb/insert-new-user.md)
-20. [Drop collection ในการ test](mongodb/test-drop-collection.md)
-21. [ทดสอบ test การสร้าง user ใหม่](mongodb/insert-new-user.md)
-22. [Validate Request ด้วย Joi](mongodb/joi-validate-request.md)
-23. [Implement Route: แสดงรายชื่อของ User ทั้งหมด](mongodb/get-all-user.md)
-24. [Implement Route: find by Id, update, delete user, find by username](mongodb/implement-find-by-id-update-delete.md)
-25. [Test: Find by username, delete user](mongodb/test-find-by-id-delete-user.md)
-
-    ## Angular
-
-26. [Setup](/angular/setup.md) 
-27. [Create Component](angular/create-component.md)
-28. [Navigation & Routing](angular/navigation-routing.md)
-29. Using Directive 
-30. Navigation
-31. Service
-32. HttpClient
-33. Async/Await
-
-    ## Azure DevOps
-
-34. Setup package.json
-35. 
-
 
