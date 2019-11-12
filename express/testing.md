@@ -4,7 +4,7 @@
 ## 1. ติดตั้ง module สำหรับ test
 
 ```bash
-ืnpm i --save-dev babel-watch jest chai supertest 
+npm i --save-dev babel-watch jest chai supertest 
 npm i @types/supertest 
 ```
 
