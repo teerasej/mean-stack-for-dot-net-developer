@@ -27,7 +27,9 @@ app.delete('/users', (req, res) => {
 })
 ```
 
-บันทึกไฟล์ และรันทดสอบการทำงานด้วย POSTMan ([ดาวน์โหลด POSTMan Collection ที่นี่](https://www.dropbox.com/s/morhjm596ecgv04/node%20api%20user%20crud%20restful.postman_collection.json?dl=0))
+บันทึกไฟล์ และรันทดสอบการทำงานด้วย POSTMan 
+- [ยังไม่ได้ลง ดาวน์โหลดตัวติดตั้งที่นี่](https://www.getpostman.com/downloads/)
+- [ดาวน์โหลด POSTMan Collection ที่นี่](https://www.dropbox.com/s/morhjm596ecgv04/node%20api%20user%20crud%20restful.postman_collection.json?dl=0)
 
 
 
