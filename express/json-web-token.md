@@ -4,7 +4,7 @@
 ## 1. ติดตั้ง module 
 
 ```bash
-ืnpm i jsonwebtoken 
+npm i jsonwebtoken 
 ```
 
 หรือ
