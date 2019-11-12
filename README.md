@@ -37,17 +37,18 @@
 
     ## Angular
 
-26. Setup 
-27. Using Component
-28. Using Directive 
-29. Navigation
-30. Service
-31. HttpClient
-32. Async/Await
+26. [Setup](/angular/setup.md) 
+27. [Create Component](angular/create-component.md)
+28. [Navigation & Routing](angular/navigation-routing.md)
+29. Using Directive 
+30. Navigation
+31. Service
+32. HttpClient
+33. Async/Await
 
     ## Azure DevOps
 
-33. Setup package.json
-34. 
+34. Setup package.json
+35. 
 
 
