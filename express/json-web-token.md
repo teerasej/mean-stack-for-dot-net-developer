@@ -4,7 +4,7 @@
 ## 1. ติดตั้ง module 
 
 ```bash
-ืnpm i jsonwebtoken 
+npm i jsonwebtoken 
 ```
 
 หรือ
@@ -26,7 +26,7 @@ export const passphase = 'nextflow';
 // function ที่ใช้สร้าง token ส่งกลับไปให้ client ของเรา
 export function generateToken( payload = {username: 'a', password: 'b'} ) {
     // let privateKey = fs.readFileSync('./private.pem', 'utf8');
-    let passphase = 'nextflow';
+    
     let token = jwt.sign(
         payload, 
         passphase,
