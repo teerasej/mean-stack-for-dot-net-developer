@@ -14,15 +14,26 @@
 6. [Middleware](/express/middleware.md)
 7. [Routing Module](/express/routing-module.md)
 8. [Request & Response Object](/express/request-response.md)
-9. [Test with JEST](/express/testing.md)
-10. [Test default route](express/testing-default-route.md)
+
+    ### Testing Express
+
+9.  [Test with JEST](/express/testing.md)
+10. [Create default router module](express/testing-default-route.md)
+
+    ### การใช้งาน Json Web Token ใน Express
+
 11. [JWT: Json Web Token](express/json-web-token.md)
 12. [Separate Server Setup](express/server-module.md)
 13. [Authenticate with JWT & Test](express/json-web-token-use-in-route.md)
 
     ## MongoDB
 
+    ### Docker
+
 14. [การใช้งาน MongoDB ใน Docker](mongodb/mongo-docker.md)
+
+    ### ต่อฐานข้อมูลด้วย Mongoose
+
 15. [ติดตั้ง Mongoose](mongodb/mongoose-setup.md)
 16. [แนวคิดใน Mongoose](mongodb/mongoose-concept.md)
 17. [เชื่อมต่อกับ MongoDB และทดสอบใช้งาน](mongodb/mongoose-test-run.md)
@@ -30,25 +41,35 @@
 19. [ใช้ user schema ในการสร้าง user ใหม่ลง Database](mongodb/insert-new-user.md)
 20. [Drop collection ในการ test](mongodb/test-drop-collection.md)
 21. [ทดสอบ test การสร้าง user ใหม่](mongodb/insert-new-user.md)
+
+    ### Validate ข้อมูลง่ายๆ ด้วย Joi
+
 22. [Validate Request ด้วย Joi](mongodb/joi-validate-request.md)
-23. [Implement Route: แสดงรายชื่อของ User ทั้งหมด](mongodb/get-all-user.md)
-24. [Implement Route: find by Id, update, delete user, find by username](mongodb/implement-find-by-id-update-delete.md)
-25. [Test: Find by username, delete user](mongodb/test-find-by-id-delete-user.md)
+
+    ### Implement Route ต่างๆ กับ Database ผ่าน Mongoose
+
+23. [สร้าง Route: แสดงรายชื่อของ User ทั้งหมด](mongodb/get-all-user.md)
+24. [สร้าง Route: find by Id, update, delete user, find by username](mongodb/implement-find-by-id-update-delete.md)
+25. [Test Route: Find by username, delete user](mongodb/test-find-by-id-delete-user.md)
+26. [DB: สร้าง function ไว้เช็คว่ามี User ใน Database หรือไม่](mongodb/check-user-exist.md)
+27. [Route: สร้างส่วน Route Login](mongodb/route-user-login.md)
+28. [JWT: เช็คข้อมูล user ใน database ก่อนปล่อย request เข้า route](mongodb/check-user-exist-in-jwt.md)
+29. [Test: ทดสอบการ login แบบต่างๆ](mongodb/test-user-login-route.md)
 
     ## Angular
 
-26. [Setup](/angular/setup.md) 
-27. [Create Component](angular/create-component.md)
-28. [Navigation & Routing](angular/navigation-routing.md)
-29. Using Directive 
-30. Navigation
-31. Service
-32. HttpClient
-33. Async/Await
+30. [Setup](/angular/setup.md) 
+31. [Create Component](angular/create-component.md)
+32. [Navigation & Routing](angular/navigation-routing.md)
+33. [Using Directive with Routing](/angular/directive-with-routing.md)
+34. 
+35. Service
+36. HttpClient
+37. Async/Await
 
     ## Azure DevOps
 
-34. Setup package.json
-35. 
+38. Setup package.json
+39. 
 
 
