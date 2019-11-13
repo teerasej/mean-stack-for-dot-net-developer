@@ -1,6 +1,10 @@
 
 # การใช้งาน MongoDB ใน Docker
 
+## Slide Docker for Beginner
+
+- [Download](https://www.dropbox.com/s/cqu75rgc50pcle2/Docker-beginner.pdf?dl=0)
+
 ## ดาวน์โหลด Docker Image และรัน Docker Container
 
 รันคำสั่ง download Docker Image ของ Mongo DB
