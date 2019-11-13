@@ -58,19 +58,24 @@
 
     ## Angular
 
-30. [Setup](/angular/setup.md) 
-31. [Create Component](angular/create-component.md)
-32. [Navigation & Routing](angular/navigation-routing.md)
-33. [Using Directive with Routing](/angular/directive-with-routing.md)
-34. [Form]
-35. [Service](angular/user-service.md)
-36. [HttpClient Authen]
-37. HttpClient
-38. Async/Await
+30. [การ Setup โปรเจค](/angular/setup.md) 
+31. [การสร้าง Component](angular/create-component.md)
+32. [ระบบ Navigation และ Routing](angular/navigation-routing.md)
+33. [การใช้งาน Directive กับ Routing](/angular/directive-with-routing.md)
+34. [การทำงานกับ Form](angular/form.md)
+35. [การสร้าง Service ไว้ใช้งาน](angular/user-service.md)
+36. [การใช้งาน HttpClient](angular/http-client.md)
+37. [HttpClient: การส่ง token ไปกับ request](angular/http-client-with-token.md)
+38. [HttpClient: request เพื่อลบข้อมูล](angular/http-client-delete-request.md)
+39. [ใส่ UI ด้วย Angular Material: Setup](angular/angular-material.md)
+40. [ใส่ UI ด้วย Angular Material: Toolbar](angular/angular-material-toolbar.md)
+41. [ใส่ UI ด้วย Angular Material: Login Form](angular/angular-material-login-form.md)
+42. [ใส่ UI ด้วย Angular Material: Dashboard](angular/angular-material-dashboard.md)
+43. [เก็บข้อมูลลง Client ด้วย Local Storage](angular/local-storage.md)
 
     ## Azure DevOps
 
-39. Setup package.json
-40. 
+44. Setup package.json
+45. 
 
 
