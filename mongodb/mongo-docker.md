@@ -1,9 +1,10 @@
 
 # การใช้งาน MongoDB ใน Docker
 
-## Slide Docker for Beginner
+## Resource
 
-- [Download](https://www.dropbox.com/s/cqu75rgc50pcle2/Docker-beginner.pdf?dl=0)
+- [Presentation: Docker for Beginner](https://www.dropbox.com/s/cqu75rgc50pcle2/Docker-beginner.pdf?dl=0)
+- [Docker Hub](https://hub.docker.com/)
 
 ## ดาวน์โหลด Docker Image และรัน Docker Container
 
