@@ -88,9 +88,7 @@ describe('User Route', () => {
 
     // drop collection ทิ้ง หลังรัน test แต่ละตัวเสร็จ
     afterEach(()=>{
-        if( UserModel.collection.length > 0 ) {
-            UserModel.collection.drop();
-        }
+        UsersModel.db.dropCollection('users');
     })
 
     afterAll(() => {
