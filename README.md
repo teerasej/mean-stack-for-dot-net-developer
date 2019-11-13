@@ -72,10 +72,6 @@
 41. [ใส่ UI ด้วย Angular Material: Login Form](angular/angular-material-login-form.md)
 42. [ใส่ UI ด้วย Angular Material: Dashboard](angular/angular-material-dashboard.md)
 43. [เก็บข้อมูลลง Client ด้วย Local Storage](angular/local-storage.md)
-
-    ## Azure DevOps
-
-44. Setup package.json
-45. 
+ 
 
 
