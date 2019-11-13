@@ -64,14 +64,13 @@
 33. [Using Directive with Routing](/angular/directive-with-routing.md)
 34. [Form]
 35. [Service](angular/user-service.md)
-36. [Authen]
-37. Service
-38. HttpClient
-39. Async/Await
+36. [HttpClient Authen]
+37. HttpClient
+38. Async/Await
 
     ## Azure DevOps
 
-40. Setup package.json
-41. 
+39. Setup package.json
+40. 
 
 

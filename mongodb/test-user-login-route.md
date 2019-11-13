@@ -73,9 +73,7 @@ describe('User Route', () => {
     });
 
     afterEach(()=>{
-        if( UserModel.collection.length > 0 ) {
-            UserModel.collection.drop();
-        }
+        UsersModel.db.dropCollection('users');
     })
 
     afterAll(() => {

@@ -39,9 +39,7 @@ describe('User Service', () => {
     });
 
     afterEach(()=>{
-        if( UsersModel.collection.length > 0 ) {
-            UsersModel.collection.drop();
-        }
+        UsersModel.db.dropCollection('users');
     })
 
     it('should found mock user', async (done) => {
